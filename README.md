@@ -1,6 +1,8 @@
 # currency_convert_app
 
-A new Flutter project.
+A new Flutter project to convert Unit Mass and Length and Time ...
+. Using provider pattern 
+Support two language Arabic and English
 
 ## Getting Started
 
