@@ -1,0 +1,15 @@
+{
+    "app_title":"Converter App",
+    "convert":"Converter",
+    "start":"GET STARTED",
+    "title_currency": "Currency",
+    "title_length": "Length",
+    "title_time": "Time",
+    "title_temperature": "Temperature",
+    "title_weight": "Weight",
+    "title_memory": "Memory",
+    "from": "From ",
+    "to": "To"
+
+}
+
